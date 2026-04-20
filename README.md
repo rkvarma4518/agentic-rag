@@ -38,27 +38,6 @@ Vector DB  Web Search  Direct Answer
 | Vector DB  | FAISS (flat / hnsw / hnsw_pq)    | Free  |
 | Web Search | DuckDuckGo                        | Free  |
 
-## Project Structure
-
-```
-agentic_rag/
-├── main.py                       # entry point — all CLI commands here
-├── requirements.txt
-├── data/                         # drop your PDF / TXT docs here
-│   └── sample_company_docs.txt
-├── vectorstore/
-│   └── store.py                  # FAISS index + HuggingFace embeddings
-├── agent/
-│   ├── router.py                 # routes query: vectorstore / web / direct
-│   ├── retriever.py              # fetches chunks from FAISS
-│   ├── grader.py                 # filters irrelevant chunks
-│   ├── generator.py              # generates answer from context
-│   └── hallucination.py          # checks answer is grounded in sources
-└── utils/
-    ├── document_loader.py        # loads + chunks PDFs and TXT files
-    └── web_search.py             # free DuckDuckGo search
-```
-
 ## Setup
 
 ### 1. Install Ollama + pull the model
