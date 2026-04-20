@@ -1,0 +1,37 @@
+Company Refund Policy
+=====================
+
+We offer a 30-day full refund on all software products, no questions asked.
+After 30 days, refunds are considered on a case-by-case basis.
+To request a refund, email support@example.com with your order number.
+
+Shipping Policy
+===============
+
+Standard shipping takes 5–7 business days.
+Express shipping (2–3 days) is available for an additional $15.
+Free shipping on orders over $50.
+We ship to the US, Canada, and most European countries.
+
+Product Warranty
+================
+
+All hardware products come with a 1-year limited warranty.
+The warranty covers manufacturing defects but not accidental damage.
+Contact warranty@example.com to file a warranty claim.
+
+Privacy Policy
+==============
+
+We do not sell your personal data to third parties.
+We collect email addresses for order confirmation and shipping updates only.
+You can request deletion of your data at any time by emailing privacy@example.com.
+Data is stored on encrypted servers in the United States.
+
+Subscription Plans
+==================
+
+Basic Plan: $9/month — 1 user, 5GB storage, email support.
+Pro Plan: $29/month — 5 users, 50GB storage, priority support.
+Enterprise Plan: $99/month — unlimited users, 1TB storage, dedicated support.
+All plans include a 14-day free trial. No credit card required.
